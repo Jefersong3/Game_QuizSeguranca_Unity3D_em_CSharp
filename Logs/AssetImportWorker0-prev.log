@@ -1,0 +1,198 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1379; Version 1909; 64bit' Language: 'pt' Physical Memory: 8065 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/jefg3/Desktop/Meus Projetos/QuizGameSass/QuizGameSass
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64790
+Successfully changed project path to: C:/Users/jefg3/Desktop/Meus Projetos/QuizGameSass/QuizGameSass
+C:/Users/jefg3/Desktop/Meus Projetos/QuizGameSass/QuizGameSass
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 85.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jefg3/Desktop/Meus Projetos/QuizGameSass/QuizGameSass/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4032 MB
+    Driver:   21.20.16.4534
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56060
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003530 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.040 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.948 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 2.881600 ms (FindLiveObjects: 0.277000 ms CreateObjectMapping: 0.101800 ms MarkObjects: 2.396000 ms  DeleteObjects: 0.105200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Titulo.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Titulo.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa4236a3906b634c4c497758bbb02b8') in 0.019382 seconds
+  Import took 0.069605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.234977 seconds.
+  path: Assets/Layout/background2.png
+  artifactKey: Guid(ef6f4871863fa0f41b10b824792affa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/background2.png using Guid(ef6f4871863fa0f41b10b824792affa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165ec910679b3ec2a355eb8764d5735f') in 0.229725 seconds
+  Import took 0.258238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Layout/Quiz-removebg-preview.png
+  artifactKey: Guid(a189a135be8e05c4c9f6643fb8aff8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Quiz-removebg-preview.png using Guid(a189a135be8e05c4c9f6643fb8aff8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34891c2522669b7f48f45c58c37a11a') in 0.052398 seconds
+  Import took 0.061981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/Layout/HUD.png
+  artifactKey: Guid(c2142ecd5d72a894a9a3b78deef3c0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/HUD.png using Guid(c2142ecd5d72a894a9a3b78deef3c0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '337ba1bd4418042185c0b7726b1df0f3') in 0.302296 seconds
+  Import took 0.326655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Layout/Logo P.png
+  artifactKey: Guid(4f907569b9b600d4d806f1223a61efa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Logo P.png using Guid(4f907569b9b600d4d806f1223a61efa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e474da1668a2b0ed7e2e952758978150') in 0.023040 seconds
+  Import took 0.030534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Layout/Logo S.png
+  artifactKey: Guid(4673fcec5d4668744b596a1148b2afeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Logo S.png using Guid(4673fcec5d4668744b596a1148b2afeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b46e6c232a1eda4e48687c81bf7e4e2') in 0.099561 seconds
+  Import took 0.121473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Layout/Game-Logo-removebg-preview.png
+  artifactKey: Guid(2a637c4786992254bb7e93977cbae7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Game-Logo-removebg-preview.png using Guid(2a637c4786992254bb7e93977cbae7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a552cb169622ca0b591ee38046741092') in 0.062674 seconds
+  Import took 0.069182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Layout/generatedtext__1_-removebg-preview.png
+  artifactKey: Guid(aa8098183bd4dcd45bfd06cc3418454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/generatedtext__1_-removebg-preview.png using Guid(aa8098183bd4dcd45bfd06cc3418454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c109d9e370ba5197f2abcc9c1dff3811') in 0.018722 seconds
+  Import took 0.034455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Layout/Game-Logo-removebg-preview.png
+  artifactKey: Guid(2a637c4786992254bb7e93977cbae7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Game-Logo-removebg-preview.png using Guid(2a637c4786992254bb7e93977cbae7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a552cb169622ca0b591ee38046741092') in 0.033838 seconds
+  Import took 0.061305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Layout/generatedtext__1_-removebg-preview.png
+  artifactKey: Guid(aa8098183bd4dcd45bfd06cc3418454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/generatedtext__1_-removebg-preview.png using Guid(aa8098183bd4dcd45bfd06cc3418454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c109d9e370ba5197f2abcc9c1dff3811') in 0.029426 seconds
+  Import took 0.037321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Layout/LogoSassQuizGame.png
+  artifactKey: Guid(0fd69cc96ecbcc844a485439261e1788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/LogoSassQuizGame.png using Guid(0fd69cc96ecbcc844a485439261e1788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2da114795f39b3f1cb63857f4c0de3') in 0.534145 seconds
+  Import took 0.557161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Layout/Mensagem Segurança.jpg
+  artifactKey: Guid(76d8da504c2788140bc44b98413459ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Mensagem Segurança.jpg using Guid(76d8da504c2788140bc44b98413459ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06ecd80421f5d779245ff6f603cd0de') in 0.146019 seconds
+  Import took 0.159287 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.2 MB.
+System memory in use after: 52.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 7.598800 ms (FindLiveObjects: 0.334900 ms CreateObjectMapping: 0.131800 ms MarkObjects: 7.095000 ms  DeleteObjects: 0.034200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.442078 seconds.
+  path: Assets/Layout/Logo CIPA 2.png
+  artifactKey: Guid(15dda49de001bf54c92afc74a515e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Logo CIPA 2.png using Guid(15dda49de001bf54c92afc74a515e4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222032bf4d3d926056c4caf6097356c7') in 0.033185 seconds
+  Import took 0.040108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Layout/Logo CIPA.png
+  artifactKey: Guid(bfcd4e7a1cdcfe049a68eb2a850df51e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layout/Logo CIPA.png using Guid(bfcd4e7a1cdcfe049a68eb2a850df51e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c337ca00d01766a9f59652828318768') in 0.022534 seconds
+  Import took 0.028642 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
